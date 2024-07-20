@@ -64,9 +64,9 @@ The principle of trusting more in the process than the outcome is something I ha
 
 ### Project 3: Data analytics for a music platform
 
-* Brief Description: Built and compared multiple neural network models to accurately classify credit scores, employing techniques like hyperparameter tuning, regularization, and class imbalance mitigation. Achieved up to 75% accuracy in predicting credit scores based on various financial and behavioral factors. Explored different architectures and optimized model performance for real-world application in credit risk assessment.
-* Key Technologies: Python, TensorFlow, Keras, Neural Networks, MLFN, SNN
-* Link: [https://github.com/aparnabimal/Credit-Score-Classifications]
+* Brief Description: Explored the factors that contribute to the success of songs on a music platform using user demographics, song attributes, and engagement metrics. Built and compared multiple classification models (Random Forest, Logistic Regression, SVM) to predict song success, achieving up to 82% accuracy. Utilized techniques like one-hot encoding, feature scaling, RFE, SMOTE, and hyperparameter tuning (GridSearchCV) to optimize model performance and address class imbalance.
+* Key Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest, SVM, Logistic Regression, PCA, One-Hot Encoding, StandardScaler, RFE, SMOTE, GridSearchCV
+* Link: [https://github.com/aparnabimal/Music-Platform-Analytics]
 
 ### Project 4: Data Augmentation for Time Series Anomaly Detection
 
