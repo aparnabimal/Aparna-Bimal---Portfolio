@@ -5,14 +5,17 @@ Hello, I am Aparna Bimal! I'm a data enthusiast who loves tackling complex chall
 The principle of trusting more in the process than the outcome is something I have come to embrace dearly throughout my academic and professional life. I believe in the power of collaboration and continuous learning, and I'm excited to share my projects and experiences with you.
 
 
+
 ## Table of Contents
 
 * [Skills and Expertise](#skills-and-expertise)
 * [Featured Projects](#featured-projects)
    * [Project 1: Classification Modeling on Tabular Data](#project-1-classification-modeling-on-tabular-data)
    * [Project 2: Credit Score Classification](#project-2-credit-score-classification)
-   * [Project 3: Data Augmentation for Time Series Anomaly Detection](#project-3-data-augmentation-for-time-series-anomaly-detection)
+   * [Project 3: Data Analytics for a music platform](#project-3-data-analytics-for-a-music-platform)
+   * [Project 4: Data Augmentation for Time Series Anomaly Detection](#project-4-data-augmentation-for-time-series-anomaly-detection)
 * [Contact](#contact)
+
 
 
 ## Skills and Expertise
@@ -59,7 +62,13 @@ The principle of trusting more in the process than the outcome is something I ha
 * Key Technologies: Python, TensorFlow, Keras, Neural Networks, MLFN, SNN
 * Link: [https://github.com/aparnabimal/Credit-Score-Classifications]
 
-### Project 3: Data Augmentation for Time Series Anomaly Detection
+### Project 3: Data analytics for a music platform
+
+* Brief Description: Built and compared multiple neural network models to accurately classify credit scores, employing techniques like hyperparameter tuning, regularization, and class imbalance mitigation. Achieved up to 75% accuracy in predicting credit scores based on various financial and behavioral factors. Explored different architectures and optimized model performance for real-world application in credit risk assessment.
+* Key Technologies: Python, TensorFlow, Keras, Neural Networks, MLFN, SNN
+* Link: [https://github.com/aparnabimal/Credit-Score-Classifications]
+
+### Project 4: Data Augmentation for Time Series Anomaly Detection
 
 * Brief Description: Explored the impact of six time-series data augmentation techniques (jittering, scaling, permutation, LSTM Autoencoder, Variational Autoencoder, WGAN-GP) on the performance of anomaly detection models (Isolation Forest and One-Class SVM). Evaluated model effectiveness using metrics such as F1-score, accuracy, precision, and recall, and provided insights into the most suitable augmentation strategies for enhancing anomaly detection in time series data.
 * Key Technologies: Python, PyTorch, Scikit-learn, Isolation Forest, One-Class SVM, Jittering, Scaling, Permutation, LSTM Autoencoder, Variational autoencoder, WGAN-GP
