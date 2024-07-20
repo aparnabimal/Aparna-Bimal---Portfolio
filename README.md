@@ -47,14 +47,17 @@ The principle of trusting more in the process than the outcome is something I ha
 
 ## Featured Projects
 
-### Project 1: Customer Churn Prediction
+### Project 1: Classification Modeling on Tabular Data
 
-* Brief Description: Developed a machine learning model to predict customer churn, resulting in a 15% reduction in churn rate.
-* Key Technologies: Python, scikit-learn, XGBoost
-* Link: [Link to the project's GitHub repository]
+* Brief Description: Built and compared multiple classification models (Random Forest, SVM, Logistic Regression) to predict a target variable on a tabular dataset. Utilized feature selection (ANOVA) and hyperparameter tuning (GridSearchCV) to optimize model performance, achieving a macro F1 score of up to 0.81. The project demonstrates expertise in data preprocessing, model selection, and evaluation.
+* Key Technologies: Python, scikit-learn, Pandas, NumPy, Random Forest, SVM, Logistic Regression
+* Link: [https://github.com/aparnabimal/Playing-around-with-ML-Models]
 
-### Project 2: Time Series Anomaly Detection
-... [Details of your second project]
+### Project 2: Credit Score Classification
+
+* Brief Description: Built and compared multiple neural network models to accurately classify credit scores, employing techniques like hyperparameter tuning, regularization, and class imbalance mitigation. Achieved up to 75% accuracy in predicting credit scores based on various financial and behavioral factors. Explored different architectures and optimized model performance for real-world application in credit risk assessment.
+* Key Technologies: Python, TensorFlow, Keras, Neural Networks, MLFN, SNN
+* Link: [https://github.com/aparnabimal/Credit-Score-Classifications]
 
 ## Work Experience
 ... [Your work experience]
