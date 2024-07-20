@@ -9,9 +9,9 @@ The principle of trusting more in the process than the outcome is something I ha
 
 * [Skills and Expertise](#skills-and-expertise)
 * [Featured Projects](#featured-projects)
-   * [Project 1: Customer Churn Prediction](#project-1-customer-churn-prediction)
-   * [Project 2: Time Series Anomaly Detection](#project-2-time-series-anomaly-detection)
-* [Work Experience](#work-experience)
+   * [Project 1: Classification Modeling on Tabular Data](#project-1-classification-modeling-on-tabular-data)
+   * [Project 2: Credit Score Classification](#project-2-credit-score-classification)
+   * [Project 3: Data Augmentation for Time Series Anomaly Detection](#project-3-data-augmentation-for-time-series-anomaly-detection)
 * [Contact](#contact)
 
 
@@ -59,8 +59,12 @@ The principle of trusting more in the process than the outcome is something I ha
 * Key Technologies: Python, TensorFlow, Keras, Neural Networks, MLFN, SNN
 * Link: [https://github.com/aparnabimal/Credit-Score-Classifications]
 
-## Work Experience
-... [Your work experience]
+### Project 3: Data Augmentation for Time Series Anomaly Detection
+
+* Brief Description: Explored the impact of six time-series data augmentation techniques (jittering, scaling, permutation, LSTM Autoencoder, Variational Autoencoder, WGAN-GP) on the performance of anomaly detection models (Isolation Forest and One-Class SVM). Evaluated model effectiveness using metrics such as F1-score, accuracy, precision, and recall, and provided insights into the most suitable augmentation strategies for enhancing anomaly detection in time series data.
+* Key Technologies: Python, PyTorch, Scikit-learn, Isolation Forest, One-Class SVM, Jittering, Scaling, Permutation, LSTM Autoencoder, Variational autoencoder, WGAN-GP
+* Link: [https://github.com/aparnabimal/Data-augmentation-for-time-series-anomaly-detection]
+
 
 ## Contact
 
